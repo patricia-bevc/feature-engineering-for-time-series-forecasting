@@ -14,6 +14,7 @@ Actively maintained.
 ## Links
 
 - [Online Course](https://www.trainindata.com/p/feature-engineering-for-forecasting)
+- GitHub: https://github.com/trainindata/feature-engineering-for-time-series-forecasting
 
 
 ## Table of Contents
